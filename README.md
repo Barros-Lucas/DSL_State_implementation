@@ -6,3 +6,6 @@ Cette implémentation ce situe dans le cadre d'un cours sur les DSL ("domain-spe
 
 L'utilisation de ce rendu ce fait en exécutant les générations de la DSL générer par le nouveau interpréteur lancé.
 
+C'est sur ce modèle que je me suis appuyé pour réalisé ce patron:
+
+![Alt text](model/Model.PNG?raw=true "Model")
