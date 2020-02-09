@@ -4,4 +4,5 @@ Ce repos contient l'implémentation d'une DSL ayant pour but de réprésenter le
 
 Cette implémentation ce situe dans le cadre d'un cours sur les DSL ("domain-specific language") et il met en avant le premier type d'implémentation via un ficher générant nos classes associées.
 
-L'utilisation de ce rendu ce fait en exécutant les génération de la DSL. 
+L'utilisation de ce rendu ce fait en exécutant les générations de la DSL générer par le nouveau interpréteur lancé.
+
